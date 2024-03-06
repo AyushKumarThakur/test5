@@ -1,2 +1,2 @@
 print("hello")
-int s = 5
+ s = 5
