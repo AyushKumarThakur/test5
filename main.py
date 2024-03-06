@@ -1,2 +1,2 @@
 print("hello")
- s = 5
+s = 5
